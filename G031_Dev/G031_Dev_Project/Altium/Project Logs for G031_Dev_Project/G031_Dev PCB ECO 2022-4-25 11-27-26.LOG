@@ -1,0 +1,121 @@
+Change Component Designator: OldDesignator=* NewDesignator=*1
+Change Component Designator: OldDesignator=* NewDesignator=*2
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C1_1 NewDesignator=C7
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=C2_1 NewDesignator=C8
+Change Component Designator: OldDesignator=C3_1 NewDesignator=C11
+Change Component Designator: OldDesignator=C4 NewDesignator=C6
+Change Component Designator: OldDesignator=C4_1 NewDesignator=C9
+Change Component Designator: OldDesignator=C5 NewDesignator=C4
+Change Component Designator: OldDesignator=C5_1 NewDesignator=C10
+Change Component Designator: OldDesignator=C6 NewDesignator=C5
+Change Component Designator: OldDesignator=C6_1 NewDesignator=C12
+Change Component Designator: OldDesignator=C7 NewDesignator=C13
+Change Component Designator: OldDesignator=C8 NewDesignator=C14
+Change Component Designator: OldDesignator=C9 NewDesignator=C15
+Change Component Designator: OldDesignator=P1 NewDesignator=P3
+Change Component Designator: OldDesignator=P2 NewDesignator=P1
+Change Component Designator: OldDesignator=P3 NewDesignator=P2
+Change Component Designator: OldDesignator=R1 NewDesignator=R3
+Change Component Designator: OldDesignator=R1_1 NewDesignator=R9
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R4
+Change Component Designator: OldDesignator=U1_1 NewDesignator=U4
+Change Component Description : Designator=VD1 Old Description=Very low capacitance ESD protection
+Features
+? 2 data-line protection
+? Protects VBUS
+? Very low capacitance: 3.5 pF max.
+? Very low leakage current: 150 nA max.
+? SOT-666 and SOT23-6L packages
+? RoHS compliant New Description=Very low capacitance ESD protection
+Features
+? 2 data-line protection
+? Protects VBUS
+? Very low capacitance: 3.5 pF max.
+? Very low leakage current: 150 nA max.
+? SOT-666 and SOT23-6L packages
+? RoHS compliant
+Change component parameters: Designator = "U3"; Footprint = "ANALOG TSOT-23-5 UJ-5"; UniqueID = "\ZHSKIHKD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "可调升压芯片"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD1"; Footprint = "MICROCHIP SOT-23-6 M6"; UniqueID = "\RGRFTKBP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "钳位IC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "属性"; Value = "30V/0.2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=VCC Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=VCC Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=OLED1-7
+Added Pin To Net: NetName=GND Pin=OLED1-16
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=VCC Pin=U4-3
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC2_2
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR1_2
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR2_1
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR4_1
+Added Pin To Net: NetName=3V3 Pin=C11-2
+Added Pin To Net: NetName=3V3 Pin=C14-1
+Added Pin To Net: NetName=3V3 Pin=C15-1
+Added Pin To Net: NetName=3V3 Pin=OLED1-5
+Added Pin To Net: NetName=3V3 Pin=OLED1-6
+Added Pin To Net: NetName=3V3 Pin=U4-2
+Added Net: Name=3V3
+Added Pin To Net: NetName=CS# Pin=J1-3
+Added Pin To Net: NetName=CS# Pin=OLED1-8
+Added Net: Name=CS#
+Added Pin To Net: NetName=D/C# Pin=J1-5
+Added Pin To Net: NetName=D/C# Pin=OLED1-10
+Added Net: Name=D/C#
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=OLED1-2
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=OLED1-1
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=OLED1-4
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=OLED1-3
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=OLED1-14
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=OLED1-15
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetOLED1_13 Pin=OLED1-13
+Added Pin To Net: NetName=NetOLED1_13 Pin=R9-1
+Added Net: Name=NetOLED1_13
+Added Pin To Net: NetName=RES# Pin=J1-4
+Added Pin To Net: NetName=RES# Pin=OLED1-9
+Added Net: Name=RES#
+Added Pin To Net: NetName=SCLK Pin=J1-6
+Added Pin To Net: NetName=SCLK Pin=OLED1-11
+Added Net: Name=SCLK
+Added Pin To Net: NetName=SDIN Pin=J1-7
+Added Pin To Net: NetName=SDIN Pin=OLED1-12
+Added Net: Name=SDIN
+Added Class: Name=0.66寸oled
+Added Room: Name=0.66寸oled

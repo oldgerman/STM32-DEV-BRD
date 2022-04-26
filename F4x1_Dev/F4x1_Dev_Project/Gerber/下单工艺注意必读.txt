@@ -1,0 +1,17 @@
+
+若在JLC下单
+
+个性化选项里：请选择 指定位置加客编（PCB背面丝印已有“JLCJLCJLCJLC”字符）
+
+层压顺序：	
+L1：F4x1_Dev.GTL
+L2：F4x1_Dev.GP1
+L3：F4x1_Dev.GP2
+L4：F4x1_Dev.GBL
+
+工程信息请备注：	Gerber文件的内层F4x1_Dev.GP1和F4x1_Dev.GP2是负片绘制导出的，请转成正片文件制作
+
+
+
+由 过气德国佬 于2022 0419 16:19最后一次编辑
+

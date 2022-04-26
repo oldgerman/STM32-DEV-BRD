@@ -1,0 +1,12 @@
+1. 随手焊个板子，把正面三个焊接跳线给跳了，开发板USB-C连电脑
+2. 安装意法半导体官方的STM32 USB虚拟串口驱动程序，下载地址：https://www.st.com/en/development-tools/stsw-stm32102.html
+3. 找个什么link把“F411CEU6_Serial_Test.bin”烧进片子
+4. 打开原子出品的 “XCOM V2.6.exe”，波特率选115200，选中USB虚拟串口所在的串口通道，打开串口
+5. 如果一切正常，可以看见串口有测试程序的 "Hello World!" 输出，伴随开发板LED闪烁，你可以按下KEY按钮，开发板会打印 "KEY Pressed!"
+
+附加的原始工程是STM32CubeIDE 1.7.0创建的
+
+F401CCU6与F411CEU6是pin to pin兼容的，可以仿照本工程生成F401的测试程序
+
+由 过气德国佬 于 2022/04/26 13:09 最后一次编辑
+
