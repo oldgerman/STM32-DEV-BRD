@@ -6,13 +6,14 @@ PCB工程完全开源，提供测试程序，焊接后第一时间可刷入测�
 
 ## 型号
 
-| 状态 | 开发板型号     | 支持芯片                         | PCB层数 |
-| ---- | -------------- | -------------------------------- | ------- |
-| 💚    | G031 DEV BRD   | STM32G031G8Ux                    | 2       |
-| 💚    | F4x1 DEV BRD   | STM32F401CxUx<br />STM32F411CxUx | 4       |
-| :x:  | F07x DEV BRD   | STM32F071CxUx<br />STM32F072CxUx | ?       |
-| :x:  | F103 DEV BRD   | STM32F103CxUx                    | ?       |
-| ...  | （不定期更新） |                                  |         |
+| 更新日期   | 状态           | 开发板型号                                                   | 支持芯片                                                 | PCB层数 |
+| ---------- | -------------- | ------------------------------------------------------------ | -------------------------------------------------------- | ------- |
+| 2022/04/29 | 💚              | [G031 DEV BRD](https://github.com/oldgerman/STM32-DEV-BRD/tree/master/G031_Dev) | STM32G031G8Ux                                            | 2       |
+| 2022/04/29 | 💚              | [F4x1 DEV BRD](https://github.com/oldgerman/STM32-DEV-BRD/tree/master/F4x1_Dev) | STM32F401CxUx<br />STM32F411CxUx                         | 4       |
+| 2022/07/31 | :yellow_heart: | [H7xxVxT6_LANG](https://github.com/oldgerman/STM32-DEV-BRD/tree/master/H7xxVxT6_LANG) | （LQFP100）<br />STM32H750<br />STM32H743<br />STM32H7B0 | 2       |
+| ?          | :x:            | F07x DEV BRD                                                 | STM32F071CxUx<br />STM32F072CxUx                         | ?       |
+| ?          | :x:            | F103 DEV BRD                                                 | STM32F103CxUx                                            | ?       |
+| ?          | ...            | （不定期更新）                                               |                                                          |         |
 
 ## PCB
 
