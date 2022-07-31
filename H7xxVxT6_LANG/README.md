@@ -54,3 +54,12 @@
 | ![H750VB_浪_PCB_2D_topView](Images/H750VB_浪_PCB_2D_topView.png) | ![H750VB_浪_PCB_2D_backView](Images/H750VB_浪_PCB_2D_backView.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
+### 底板母座引出的io 对比 反客科技
+
+![对比反客科技未引出的io](Images/对比反客科技未引出的io.png)
+
+### 引出io对应的CubeMX脚位
+
+[本图CubeMX文件](https://github.com/oldgerman/STM32-DEV-BRD/tree/master/H7xxVxT6_LANG/CubeMX/H750VBTx_LANG_BTB_IO)
+
+![H750VB_浪_PCB_排母连接器引出的io](Images/H750VB_浪_PCB_排母连接器引出的io.png)
