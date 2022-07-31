@@ -1,8 +1,16 @@
 ## STM32H750VBT6 核心板
 
+### 原作信息
+
+- 作者：[憂鬱的樹袋熊](https://space.bilibili.com/14536820)
+- 立创开源广场：[仿制反客科技STM32H750VBT6核心板](https://oshwhub.com/yydsdx/stm32h750vbt6_gfx)
+- 焊接测试视频：[焊个板板，好烫烫！！！ STM32H750开发板](https://www.bilibili.com/video/BV1jU4y1M7GA?share_source=copy_web&vd_source=e6ad3ca74f59d33bf575de5aa7ceb52e)
+
 ### 关于
 
-- 两层板设计，使用贴片双排2.54mm排针排母连接，类似BTB结构
+- 两层板设计，过孔0.3/0.5，最小线宽线隙5mil
+
+- 使用贴片双排2.54mm排针排母连接，类似BTB结构
 
 - 从反客科技的板子修改（两个Flash、RGB屏液晶接口、3个按键（复位、BOOT、用户）、1个用户LED、1个TF卡、串口、SWD接口一个都不少）
 
@@ -13,12 +21,6 @@
   孔距：59mx37mm
 
   两组2x10pin排针：关于板子中心对称，Y方向距离15mm，x坐标为板长中线32.5mm
-
-### 原作信息
-
-- 作者：[憂鬱的樹袋熊](https://space.bilibili.com/14536820)
-- 立创开源广场：[仿制反客科技STM32H750VBT6核心板](https://oshwhub.com/yydsdx/stm32h750vbt6_gfx)
-- 焊接测试视频：[焊个板板，好烫烫！！！ STM32H750开发板](https://www.bilibili.com/video/BV1jU4y1M7GA?share_source=copy_web&vd_source=e6ad3ca74f59d33bf575de5aa7ceb52e)
 
 ### 修改部分
 
