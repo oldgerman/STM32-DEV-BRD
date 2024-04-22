@@ -17,7 +17,7 @@ PCB工程完全开源，提供测试程序，焊接后第一时间可刷入测�
 | 2022/07/31 | :yellow_heart: | [H7xxVxT6_LANG](https://github.com/oldgerman/STM32-DEV-BRD/tree/master/H7xxVxT6_LANG) | （LQFP100）<br />STM32H750<br />STM32H743<br />STM32H7B0 | 2       |
 | ?          | :x:            | F07x DEV BRD                                                 | STM32F071CxUx<br />STM32F072CxUx                         | ?       |
 | ?          | :x:            | F103 DEV BRD                                                 | STM32F103CxUx                                            | ?       |
-| 2024/02/29 | :yellow_heart: | [G431 DEV BRD](https://github.com/oldgerman/STM32-DEV-BRD/tree/master/G431_Dev) | STM32G431GBUx                                            | 4       |
+| 2024/02/29 | 💚              | [G431 DEV BRD](https://github.com/oldgerman/STM32-DEV-BRD/tree/master/G431_Dev) | STM32G431GBUx                                            | 4       |
 | ?          | ...            | （不定期更新）                                               |                                                          |         |
 
 ## PCB
@@ -26,9 +26,10 @@ PCB工程完全开源，提供测试程序，焊接后第一时间可刷入测�
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | G031 DEV BRD | ![Top_3Dview](G031_Dev/G031_Dev_Project/Images/Top_3Dview.png) | ![Bottom_3Dview_NP](G031_Dev/G031_Dev_Project/Images/Bottom_3Dview_NP.png) |
 | F4x1 DEV BRD | ![Top_3Dview](F4x1_Dev/F4x1_Dev_Project/Images/Top_3Dview.png) | ![Bottom_3Dview_NP](F4x1_Dev/F4x1_Dev_Project/Images/Bottom_3Dview_NP.png) |
-| G431 DEV BRD | ![20240229_2D_TOP](G431_Dev/G431_Dev_Project/Altium/Images/20240229_2D_TOP.png) | ![20240229_2D_BOTTOM](G431_Dev/G431_Dev_Project/Altium/Images/20240229_2D_BOTTOM.png) |
+| G431 DEV BRD | ![20240229_2D_TOP](G431_Dev/G431_Dev_Project/20240229_Altium/Images/20240229_2D_TOP.png) | ![20240229_2D_BOTTOM](G431_Dev/G431_Dev_Project/20240229_Altium/Images/20240229_2D_BOTTOM.png) |
 
 ## 图片
 
 ![mix(1)](Images/mix(1).jpeg)
 
+![G431_Dev](Images/G431_Dev.JPG)

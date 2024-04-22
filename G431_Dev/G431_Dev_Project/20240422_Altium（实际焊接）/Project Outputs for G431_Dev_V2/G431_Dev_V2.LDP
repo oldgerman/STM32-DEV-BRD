@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\ODG-PROJECT\STM32-DEV-BRD\G431_Dev\G431_Dev_Project\Altium\V2\G431_Dev_V2.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=g431_dev_v2-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=g431_dev_v2-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

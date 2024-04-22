@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [G431_Dev_V2.PrjPcb]
+   Generated File[G431_Dev_V2-RoundHoles.TXT]
+   Generated File[G431_Dev_V2-SlotHoles.TXT]
+   Generated File[G431_Dev_V2.LDP]
+   Generated File[G431_Dev_V2.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 17:53:40 On 2024/2/29

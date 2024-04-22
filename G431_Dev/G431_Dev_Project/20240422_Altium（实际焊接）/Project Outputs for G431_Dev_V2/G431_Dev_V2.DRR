@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: G431_Dev_V2.PcbDoc   2024/2/29  17:53:39
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : G431_Dev_V2-RoundHoles.TXT
+ASCII SlotHoles File : G431_Dev_V2-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             217       PTH        30.33inch (770.30mm)
+T2      24mil (0.6mm)                                             Slot              8         PTH        4.51inch (114.47mm)
+T3      26mil (0.65mm)                                            Round             4         PTH        1.33inch (33.72mm)
+T4      39mil (1mm)                                               Round             4         PTH        1.96inch (49.67mm)
+T5      40mil (1.016mm)                                           Round             111       PTH        15.97inch (405.57mm)
+T6      83mil (2.1mm)                                             Round             4         PTH        6.57inch (166.88mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              348
+
+Total Processing Time (hh:mm:ss) : 00:00:01
